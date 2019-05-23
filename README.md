@@ -27,6 +27,7 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
 
 ## Awesome Onboard Information And Websites
 
+- [How to Do Good Scientific Research?](https://www.monperrus.net/martin/research-skills)  
 - [Individual study plans - eISP](https://eisp.sys.kth.se/)  
 - [Employee benefits - KTH for me](https://intra.kth.se/en/anstallning/anstallningsvillkor/personalformaner-kth-for-mig-1.365793)  
 - [Travel and expense report - KTH-RES](https://kth.ebuilder.se)
