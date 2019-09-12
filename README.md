@@ -31,6 +31,7 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
 - [Individual study plans - eISP](https://eisp.sys.kth.se/)  
 - [Employee benefits - KTH for me](https://intra.kth.se/en/anstallning/anstallningsvillkor/personalformaner-kth-for-mig-1.365793)  
 - [Travel and expense report - KTH-RES](https://kth.ebuilder.se)
+- [KTH room booking time table](https://cloud.timeedit.net/kth/web/public01/)
 
 ## Awesome Tools
 
