@@ -38,6 +38,7 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
 - **Effectiveness**  
   - [Oh My Zsh: an open source, community-driven framework for managing your zsh configuration](https://github.com/robbyrussell/oh-my-zsh)  
   - [Awesome WM Copycats: a set of themes for the Awesome window manager](https://github.com/lcpz/awesome-copycats)  
+  - [The Ultimate vimrc](https://github.com/amix/vimrc)
 - **Presentation**  
   - [asciinema: a very nice terminal session recorder](https://github.com/asciinema/asciinema)  
   - [WebSequenceDiagrams - Draw sequence diagrams online in seconds](https://www.websequencediagrams.com/)  
