@@ -35,9 +35,16 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
 
 ## Awesome Tools
 
-- [Oh My Zsh: an open source, community-driven framework for managing your zsh configuration](https://github.com/robbyrussell/oh-my-zsh)  
-- [Awesome WM Copycats: a set of themes for the Awesome window manager](https://github.com/lcpz/awesome-copycats)  
-- [asciinema: a very nice terminal session recorder](https://github.com/asciinema/asciinema)
+- **Effectiveness**  
+  - [Oh My Zsh: an open source, community-driven framework for managing your zsh configuration](https://github.com/robbyrussell/oh-my-zsh)  
+  - [Awesome WM Copycats: a set of themes for the Awesome window manager](https://github.com/lcpz/awesome-copycats)  
+- **Presentation**  
+  - [asciinema: a very nice terminal session recorder](https://github.com/asciinema/asciinema)  
+  - [WebSequenceDiagrams - Draw sequence diagrams online in seconds](https://www.websequencediagrams.com/)  
+  - [PGFPlots Gallery](http://pgfplots.sourceforge.net/gallery.html)  
+- **Visualization**  
+  - [D3.js, a JavaScript library for manipulating documents based on data](https://d3js.org/)  
+  - [AMCHARTS, JavaScript Charts & Maps](https://www.amcharts.com/)
 
 ## Awesome Papers
 
