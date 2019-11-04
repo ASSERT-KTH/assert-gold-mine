@@ -46,6 +46,8 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
 - **Visualization**  
   - [D3.js, a JavaScript library for manipulating documents based on data](https://d3js.org/)  
   - [AMCHARTS, JavaScript Charts & Maps](https://www.amcharts.com/)
+- **Fault Injection**  
+  - [libfaketime, a tool that modifies the system time for a single application](https://github.com/wolfcw/libfaketime)
 
 ## Awesome Papers
 
