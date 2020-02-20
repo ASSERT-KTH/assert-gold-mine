@@ -19,7 +19,7 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
 - **Museums**  
   - [Fotografiska (Stadsgårdshamnen 22, Stockholm)](https://goo.gl/maps/cfbdAh1LhbxgnSTA6)  
   - [Moderna Museet (Exercisplan 4, Stockholm)](https://goo.gl/maps/aZ2xWBPLidsSyGrF9)  
-  - [Nobel Museum (Stortorget 2, Stockholm)](https://goo.gl/maps/5f59VnD5aVTPKGcu9) 
+  - [Nobel Museum (Stortorget 2, Stockholm)](https://goo.gl/maps/5f59VnD5aVTPKGcu9)
 - **Views**
   - [Monteliusvägen](https://goo.gl/maps/FyWLr49FCxiRpvdQ9)
   - [Skinnarviksberget](https://goo.gl/maps/cyQ5cjnai5JUrzP67)
@@ -33,6 +33,10 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
 - [Travel and expense report - KTH-RES](https://kth.ebuilder.se)  
 - [KTH room booking time table](https://cloud.timeedit.net/kth/web/public01/)
 - [Telephone company and mobile network operator - Vimla!](https://vimla.se/?202001280851045312)
+
+## Awesome Documents by ASSERT Members
+
+- [Workaround GitHub API](docs/workaround-github-api.md)
 
 ## Awesome Tools
 
@@ -52,4 +56,3 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
   - [libfaketime, a tool that modifies the system time for a single application](https://github.com/wolfcw/libfaketime)
 
 ## Awesome Papers
-
