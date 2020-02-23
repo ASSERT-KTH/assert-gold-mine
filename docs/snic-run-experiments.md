@@ -116,7 +116,7 @@ To check your quota limits, you can use the command: `quota`.
 
 If your experiments create many temporary files, you can save these files in the `/scratch` folder (if it is available) to try to avoid the quota exceeding.
 
-More details are available in [this page](https://www.hpc2n.umu.se/documentation/filesystems/overview=).
+More details are available in [this page](https://www.hpc2n.umu.se/documentation/filesystems/overview).
 
 ## Creation of the Jobs
 
