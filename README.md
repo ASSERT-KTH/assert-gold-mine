@@ -37,6 +37,7 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
 ## Awesome Documents by ASSERT Members
 
 - [Workaround GitHub API](docs/workaround-github-api.md)
+- [Run Experiments with SNIC](docs/snic-run-experiments.md)
 
 ## Awesome Tools
 
