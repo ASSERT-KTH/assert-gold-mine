@@ -1,6 +1,6 @@
 # Run Experiments with SNIC
 
-SNIC (Swedish National Infrastructure for Computing) is a Swedish research infrastructure, that makes available resources (data storage and computation) to meet the needs of researchers.
+SNIC (Swedish National Infrastructure for Computing) is a Swedish research infrastructure that makes available resources (data storage and computation) to meet the needs of researchers.
 
 This document describes how to use HPC2N (High Performance Computing Center North), that is part of SNIC, in order to run the experiments in parallel.
 
@@ -16,7 +16,7 @@ More details can be found [here](https://www.hpc2n.umu.se/account/users).
 
 ### HPC2N Account
 
-After becoming a member of an existing project, it is necessary to request an account at HPC2N in this [page](https://supr.snic.se/account/). More information are available in the point 4 of [this guide](https://www.hpc2n.umu.se/account/users).
+After becoming a member of an existing project, it is necessary to request an account at HPC2N in this [page](https://supr.snic.se/account/). More details are available in the point 4 of [this guide](https://www.hpc2n.umu.se/account/users).
 
 ## Login
 
@@ -37,13 +37,13 @@ The first time, you will have to change the password, following [this guide](htt
 
 To set up your environment for using a particular set of software packages, you can use the modules that are provided centrally.
 
-To know the modules that are available, you can run this command:
+To know which modules are available, you can run this command:
 
 ```
  ml spider <software-name>
  ```
 
-For instance, if you are interested to know which versions of Java are available, the command is this one:
+For instance, if you want to know which versions of Java are available, the command is this one:
 
 ```
 ml spider Java
@@ -78,7 +78,7 @@ More details can be found in [this page](https://www.hpc2n.umu.se/documentation/
 
 `Every time you do the login, you have to reload the modules that you want.`
 
-To ease the process, you can create a .sh file, where you put all the modules that have to be loaded, and source directy that file every time you do the login.
+To ease the process, you can create a .sh file, where you put all the modules that have to be loaded, and source directly that file every time you do the login.
 
 Example of the file:
 
@@ -110,11 +110,11 @@ ln -s /pfs/nobackup$HOME $HOME/pfs
 
 In this way, your "parallel" home directory will be available here `~/pfs`.
 
-Every user has a maximum quota related to the space and to the number of the files that can be stored in the PFS file system. If your experiments exceed the quota, you will get the error `Disk quota exceeded`.
+Every user has a maximum quota related to the space and to the number of files that can be stored in the PFS file system. If your experiments exceed the quota, you will get the error `Disk quota exceeded`.
 
 To check your quota limits, you can use the command: `quota`.
 
-If your experiments creates many temporary files, you can save these files in the `/scratch` folder (if it is available) to try to avoid the quota exceeding.
+If your experiments create many temporary files, you can save these files in the `/scratch` folder (if it is available) to try to avoid the quota exceeding.
 
 More details are available in [this page](https://www.hpc2n.umu.se/documentation/filesystems/overview=).
 
@@ -149,7 +149,7 @@ For instance, if you want to run [Repairnator](https://github.com/eclipse/repair
 srun java -cp $TOOLS_JAR:repairnator-pipeline-3.3-SNAPSHOT-jar-with-dependencies.jar fr.inria.spirals.repairnator.pipeline.Launcher --ghOauth $GITHUB_TOKEN --workspace /scratch/<username>/workspace --repairTools AstorJKali -b 346537408`
 ```
 
-Moreover, it is possible to specify other parameters, following the indications of [this page](https://www.hpc2n.umu.se/quickstart).
+Moreover, it is possible to specify other parameters, following the instructions of [this page](https://www.hpc2n.umu.se/quickstart).
 
 ## Run the Jobs
 
@@ -159,7 +159,7 @@ To run the jobs, you have to run this command:
 sbatch <submit_file>
 ```
 
-where `submit_file` is the name of the .sh file associated with the job. When the job is submitted, an ID is associated to this job.
+where `submit_file` is the name of the .sh file associated with the job. When the job is submitted, an ID is associated with this job.
 
 For every job, it will be created a file `slurm-jobid.out` with the standard output and standard error.
 
