@@ -125,7 +125,7 @@ To run your experiments in parallel, you need to create a job for every experime
 ```sh
 #!/bin/bash
 #SBATCH -A <account>
-#SBATCH -n <number-of-noded>
+#SBATCH -n <number-of-nodes>
 #SBATCH --time=01:00:00
 
 srun ./mpi_program 
