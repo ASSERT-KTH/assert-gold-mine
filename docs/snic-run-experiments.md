@@ -8,7 +8,7 @@ This document describes how to use HPC2N (High Performance Computing Center Nort
 
 ### SUPR Account
 
-To use the resources provided by SNIC, it is necessary to create a SUPR (SNIC User and Project Repository) account and join an existing project, as indicated in this [page](https://github.com/gluckzhang/assert-gold-mine/wiki/What-options-to-run-computational-experiments%3F).
+To use the resources provided by SNIC, it is necessary to create a SUPR (SNIC User and Project Repository) account and join an existing project, as indicated in this [page](https://github.com/gluckzhang/assert-gold-mine/wiki/What-options-to-run-computational-experiments%3F) (Option A: SNIC/Cluster).
 
 If you have a KTH account, you can use the KTH credentials, otherwise you can create an account from [this page](https://supr.snic.se/person/register/new/?), and follow the instructions to accept the SNIC User Agreement.
 
@@ -114,7 +114,7 @@ Every user has a maximum quota related to the space and to the number of files t
 
 To check your quota limits, you can use the command: `quota`.
 
-If your experiments create many temporary files, you can save these files in the `/scratch` folder (if it is available) to try to avoid the quota exceeding.
+If your experiments create many temporary files, you can save these files in the `/scratch` folder (if it is available) to try to avoid the quota exceeding. Before using thid folder, you have to know that `when anybody need more space than available on /scratch, the oldest/largest files we will be removed without any notices`.
 
 More details are available in [this page](https://www.hpc2n.umu.se/documentation/filesystems/overview).
 
