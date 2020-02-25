@@ -8,7 +8,7 @@ This document describes how to use HPC2N (High Performance Computing Center Nort
 
 ### SUPR Account
 
-To use the resources provided by SNIC, it is necessary to create a SUPR (SNIC User and Project Repository) account and join an existing project, as indicated in this [page](https://github.com/gluckzhang/assert-gold-mine/wiki/What-options-to-run-computational-experiments%3F) (Option A: SNIC/Cluster).
+To use the resources provided by SNIC, it is necessary to create a SUPR (SNIC User and Project Repository) account and join an existing project, as indicated in this [page](compute.md) (Option A: SNIC/Cluster).
 
 If you have a KTH account, you can use the KTH credentials, otherwise you can create an account from [this page](https://supr.snic.se/person/register/new/?), and follow the instructions to accept the SNIC User Agreement.
 
@@ -100,7 +100,9 @@ Indeed, all the other folders are public, and so they are accessible by everyone
 
 After setting your environment, you can start to create the jobs to run your experiments in parallel.
 
-It's important to understand that there are two different file systems (`AFS` and `PFS`): your home is placed on the AFS file sysyem (it is backed up regularly), while the `pfs` folder (not backed up) used to run the experiments in parallel is in the PFS file system.
+It's important to understand that there are two different file systems (`AFS` and `PFS`): your home is placed on the AFS file sysyem (it is backed up regularly), while the `pfs` folder (not backed up) `used to run the experiments in parallel` is in the PFS file system.
+
+Note that you should setup and run your jobs from directories somewhere on `/pfs/nobackup/`, and not from your home directory.
 
 To create a soft link from your home directory to your corresponding home on the parallel file system, you can use the following command:
 
@@ -135,9 +137,9 @@ srun ./mpi_program
 
 `#SBATCH -n` specifies the number of nodes that you want to allocate for the job;
 
-`#SBATCH --time` specifies the time that should be reserved for the job (in the example, it has been specified one hour).
+`#SBATCH --time` specifies the time that should be reserved for the job (the maximum allowed runtime of any job is seven days, as indicated in [this page](https://www.hpc2n.umu.se/documentation/batchsystem/slurm-submit-file-design#runtime)).
 
-`srun` contains the command that have to be executed by the job (generally, you should run your parallel program with `mpirun` on `Kebnekaise` and `srun` on `Abisko`).
+`srun` contains the command that have to be executed by the job (generally, you should run your parallel program with `mpirun` on `Kebnekaise` and `srun` on `Abisko`, but since `mpirun` does not always work when using standard input and since both should work interchangeably, you can use `srun` also on `Kebnekaise`).
 
 For instance, if you want to run [Repairnator](https://github.com/eclipse/repairnator) on the build `346537408` and reserve three hours to its job, you can create a file with this content:
 
@@ -149,7 +151,7 @@ For instance, if you want to run [Repairnator](https://github.com/eclipse/repair
 srun java -cp $TOOLS_JAR:repairnator-pipeline-3.3-SNAPSHOT-jar-with-dependencies.jar fr.inria.spirals.repairnator.pipeline.Launcher --ghOauth $GITHUB_TOKEN --workspace /scratch/<username>/workspace --repairTools AstorJKali -b 346537408`
 ```
 
-Moreover, it is possible to specify other parameters, following the instructions of [this page](https://www.hpc2n.umu.se/quickstart).
+Moreover, it is possible to specify other parameters, following the instructions of [this page](https://www.hpc2n.umu.se/quickstart). Other examples can be found [here](https://www.hpc2n.umu.se/documentation/batchsystem/basic-submit-example-scripts).
 
 ## Run the Jobs
 
