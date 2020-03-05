@@ -36,6 +36,7 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
 
 ## Awesome Documents by ASSERT Members
 
+- [How to run computational experiments?](docs/compute.md)
 - [Workaround GitHub API](docs/workaround-github-api.md)
 - [Run Experiments with SNIC](docs/snic-run-experiments.md)
 
