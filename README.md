@@ -51,6 +51,9 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
   - [asciinema: a very nice terminal session recorder](https://github.com/asciinema/asciinema)  
   - [WebSequenceDiagrams - Draw sequence diagrams online in seconds](https://www.websequencediagrams.com/)  
   - [PGFPlots Gallery](http://pgfplots.sourceforge.net/gallery.html)  
+
+- **Latex related**
+  - [Overleaf/GitHub tex boilerplate project to verify spelling, grammar, style, and run other sanity checks](https://github.com/Jacarte/autocheck-latex-boilerplate)
 - **Visualization**  
   - [D3.js, a JavaScript library for manipulating documents based on data](https://d3js.org/)  
   - [AMCHARTS, JavaScript Charts & Maps](https://www.amcharts.com/)
