@@ -195,3 +195,15 @@ Example of the file:
 sbatch job-1.sh
 sbatch job-2.sh
 ```
+
+If you need to run the jobs serially, you can establish dependencies between them by using any of the following two options
+
+When sumbitting job:
+```
+sbatch --dependency=afterok:<jobID_1> job-2.sh
+```
+
+Or after job was submitted:
+```
+scontrol update JobId=<jobID_2> dependency=afterok:<jobID_1>
+```
