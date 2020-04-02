@@ -198,7 +198,7 @@ sbatch job-2.sh
 
 If you need to run the jobs serially, you can establish dependencies between them by using any of the following two options
 
-When sumbitting job:
+When submitting job:
 ```
 sbatch --dependency=afterok:<jobID_1> job-2.sh
 ```
