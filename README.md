@@ -47,16 +47,17 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
   - [Oh My Zsh: an open source, community-driven framework for managing your zsh configuration](https://github.com/robbyrussell/oh-my-zsh)  
   - [Awesome WM Copycats: a set of themes for the Awesome window manager](https://github.com/lcpz/awesome-copycats)  
   - [The Ultimate vimrc](https://github.com/amix/vimrc)
+  - [Mathcha, an online mathematics editor](https://www.mathcha.io/)
 - **Presentation**  
   - [asciinema: a very nice terminal session recorder](https://github.com/asciinema/asciinema)  
   - [WebSequenceDiagrams - Draw sequence diagrams online in seconds](https://www.websequencediagrams.com/)  
   - [PGFPlots Gallery](http://pgfplots.sourceforge.net/gallery.html)  
-
 - **Latex related**
   - [Overleaf/GitHub tex boilerplate project to verify spelling, grammar, style, and run other sanity checks](https://github.com/Jacarte/autocheck-latex-boilerplate)
 - **Visualization**  
   - [D3.js, a JavaScript library for manipulating documents based on data](https://d3js.org/)  
   - [AMCHARTS, JavaScript Charts & Maps](https://www.amcharts.com/)
-  - [Git History Browser Extension, to add a button to the GitHub file interface to see its history](https://github.com/LuisReinoso/git-history-browser-extension)
+  - [Git History Browser Extension, to add a button to the GitHub file interface to see its history](https://github.com/LuisReinoso/git-history-browser-extension)  
+  - [Observable, a magic notebook for exploring data and thinking with code](https://observablehq.com/)
 - **Fault Injection**  
   - [libfaketime, a tool that modifies the system time for a single application](https://github.com/wolfcw/libfaketime)
