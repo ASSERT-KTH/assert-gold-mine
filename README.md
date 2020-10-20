@@ -53,10 +53,11 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
   - [WebSequenceDiagrams - Draw sequence diagrams online in seconds](https://www.websequencediagrams.com/)  
   - [PGFPlots Gallery](http://pgfplots.sourceforge.net/gallery.html)  
 - **Latex related**
-  - [Overleaf/GitHub tex boilerplate project to verify spelling, grammar, style, and run other sanity checks](https://github.com/Jacarte/autocheck-latex-boilerplate)
+  - [Overleaf/GitHub tex boilerplate project to verify spelling, grammar, style, and run other sanity checks](https://github.com/Jacarte/autocheck-latex-boilerplate)  
+  - [Tables Generator: an online generator for tables in LaTeX, HTML, Text, Markdown, and MediaWiki](https://www.tablesgenerator.com/)  
 - **Visualization**  
   - [D3.js, a JavaScript library for manipulating documents based on data](https://d3js.org/)  
-  - [AMCHARTS, JavaScript Charts & Maps](https://www.amcharts.com/)
+  - [AMCHARTS, JavaScript Charts & Maps](https://www.amcharts.com/)  
   - [Git History Browser Extension, to add a button to the GitHub file interface to see its history](https://github.com/LuisReinoso/git-history-browser-extension)  
   - [Observable, a magic notebook for exploring data and thinking with code](https://observablehq.com/)
 - **Fault Injection**  
