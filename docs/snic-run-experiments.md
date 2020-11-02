@@ -207,3 +207,18 @@ Or after job was submitted:
 ```
 scontrol update JobId=<jobID_2> dependency=afterok:<jobID_1>
 ```
+
+## Using Docker
+
+Docker images can be used via the singularity system.
+
+On the login node:
+
+    rm -rf /home/m/monperru/.singularity /pfs/nobackup/home/m/monperru/.singularity
+    mkdir /pfs/nobackup/home/m/monperru/.singularity
+    ln -s /pfs/nobackup/home/m/monperru/.singularity /home/m/monperru/.singularity
+    
+On the compute nodes:
+
+    module load singularity
+    singularity shell  docker://ubuntu:20.04
