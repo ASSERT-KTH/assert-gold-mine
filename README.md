@@ -35,10 +35,10 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
 - [KTH room booking time table](https://cloud.timeedit.net/kth/web/public01/)
 - [Telephone company and mobile network operator - Vimla!](https://vimla.se/?202001280842527775)
 
-## Awesome Documents by ASSERT Members
+## How to run computational experiments?
 
-- [How to run computational experiments?](docs/compute.md)
-- [Workaround GitHub API](docs/workaround-github-api.md)
+- [Computing resources](docs/compute.md)
+- [Downloading many files through the GitHub API](docs/workaround-github-api.md)
 - [Run Experiments with SNIC](docs/snic-run-experiments.md)
 
 ## Awesome Tools
