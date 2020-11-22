@@ -30,6 +30,7 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
 
 - [How to Do Good Scientific Research?](https://www.monperrus.net/martin/research-skills)  
 - [Individual study plans - eISP](https://eisp.sys.kth.se/)  
+- [Course Information for Doctoral Students](docs/course-information.md)
 - [Employee benefits - KTH for me](https://intra.kth.se/en/anstallning/anstallningsvillkor/personalformaner-kth-for-mig-1.365793)  
 - [Travel and expense report - KTH-RES](https://kth.ebuilder.se)  
 - [KTH room booking time table](https://cloud.timeedit.net/kth/web/public01/)
