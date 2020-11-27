@@ -42,3 +42,6 @@ Ask long to have a VM
 
 Long is running a Kubernetes cluster. Can be used with [argo](https://github.com/argoproj/argo) (Javier has done this)
 
+## Google Colab
+
+If the experiment is in Python, Google Colab is an option 
