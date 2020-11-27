@@ -6,6 +6,7 @@ This document describes the alternatives we have to run our experiments.
 
 * Individual NUC (@Ye)
 * The Repairnator machine
+* The Pellow machine
 * More machines to come?
 
 ## Dedicated server hosted at PDC  (Down now :( )
