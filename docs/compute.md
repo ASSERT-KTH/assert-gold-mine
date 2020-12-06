@@ -21,8 +21,9 @@ We have SNIC projects in two clusters, HPC2N and PDC.
 
 Open an account on https://supr.snic.se/, and ask to join an existing project on https://supr.snic.se/project/
 
-
 Expert in the team for questions: Zimin, Javier Ron, Zhongxing
+
+See documentation at <https://github.com/gluckzhang/assert-gold-mine/blob/master/docs/snic-run-experiments.md>
 
 ## 4. Virtual machines
 
