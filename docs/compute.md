@@ -2,20 +2,20 @@
 
 This document describes the alternatives we have to run our experiments.
 
-## Physical machines hosted in Assert
+## 1. Physical machines hosted in Assert
 
 * Individual NUC (@Ye)
 * The Repairnator machine
 * The Pellow machine
 * More machines to come?
 
-## Dedicated server hosted at PDC  (Down now :( )
+## 2. Shared Unix servers from KTH/EECS
 
-We have a server at PDC. Docker is available.
+Connection through SSH, see <https://intra.kth.se/en/it/arbeta-pa-distans/unix/servers-1.971157>
 
-Expert in the team for questions: Javier and Nicolas
+(Martin uses `tray`)
 
-## SNIC
+## 3. SNIC Cluster
 
 We have SNIC projects in two clusters, HPC2N and PDC.
 
@@ -24,7 +24,7 @@ Open an account on https://supr.snic.se/, and ask to join an existing project on
 
 Expert in the team for questions: Zimin, Javier Ron, Zhongxing
 
-## Virtual machines
+## 4. Virtual machines
 
 ### VM on Microsoft Azure
 
@@ -39,10 +39,20 @@ OpenShift interface
 
 Ask long to have a VM
 
-## Kubernetes cluster
+## 5. Kubernetes cluster
 
 Long is running a Kubernetes cluster. Can be used with [argo](https://github.com/argoproj/argo) (Javier has done this)
 
-## Google Colab
+## 6. Google Colab
 
-If the experiment is in Python, Google Colab is an option 
+If the experiment is in Python, Google Colab is an option @Ye
+
+## Dedicated server hosted at PDC  (Down now :( )
+
+We have a server at PDC. Docker is available.
+
+Expert in the team for questions: Javier and Nicolas
+
+## Not enough?
+
+Just ask on the mailing-list :)
