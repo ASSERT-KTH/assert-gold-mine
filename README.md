@@ -27,6 +27,11 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
   - [Monteliusvägen](https://goo.gl/maps/FyWLr49FCxiRpvdQ9)
   - [Skinnarviksberget](https://goo.gl/maps/cyQ5cjnai5JUrzP67)
   - [Fjällgatan](https://goo.gl/maps/LX1f3KVeMJadieCy5)
+- **Concert spaces**
+  - [Stallet (Swedish traditional music and world music)](https://stallet.st/en/)
+  - [Fylkingen (Cosy space for experimental music)](https://fylkingen.se/)
+  - [Konserthuset (Classical music)](https://www.konserthuset.se/en)
+  - [Berwaldhallen (Classical music)](https://www.berwaldhallen.se/en/)
 
 ## Awesome Onboard Information And Websites
 
