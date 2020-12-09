@@ -6,6 +6,8 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
 - **Pubs / Restaurants**  
   - [Wirströms Pub (Stora Nygatan 13, Stockholm)](https://goo.gl/maps/McA4gtR1VzsWoQxM7)  
   - [Panda Asian Restaurant (Vasagatan 12, Stockholm)](https://goo.gl/maps/vnDAGXa9TcKDJbvo9)  
+  - [450 Gradi (Great Napolitan Pizzeria)](https://goo.gl/maps/CFoSTT3Rrc3gEeSS8)  
+  - [Giro (Italian Pizzeria)](https://goo.gl/maps/beFPJbHChKAgZxtk9)  
 - **Markets**  
   - [Oriental Supermarket (Sveavägen 17, Stockholm)](https://goo.gl/maps/zxeGxJAbT9TVY4sMA)  
   - [IKEA in Southwest of Stockholm (Modulvägen 1, Kungens Kurva)](https://goo.gl/maps/DNLU52iap12hnmze8)  
