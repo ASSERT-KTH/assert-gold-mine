@@ -70,3 +70,9 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
   - [Observable, a magic notebook for exploring data and thinking with code](https://observablehq.com/)
 - **Fault Injection**  
   - [libfaketime, a tool that modifies the system time for a single application](https://github.com/wolfcw/libfaketime)
+  
+- **Notification tools**
+  - [Send a message to your Telegram using a bot](https://solvit.io/0f9c61a)
+  
+  
+  
