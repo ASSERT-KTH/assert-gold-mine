@@ -60,7 +60,7 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
   - [asciinema: a very nice terminal session recorder](https://github.com/asciinema/asciinema)  
   - [WebSequenceDiagrams - Draw sequence diagrams online in seconds](https://www.websequencediagrams.com/)  
   - [PGFPlots Gallery](http://pgfplots.sourceforge.net/gallery.html)  
-- **Latex related**
+- **Latex Related**
   - [Overleaf/GitHub tex boilerplate project to verify spelling, grammar, style, and run other sanity checks](https://github.com/Jacarte/autocheck-latex-boilerplate)  
   - [Tables Generator: an online generator for tables in LaTeX, HTML, Text, Markdown, and MediaWiki](https://www.tablesgenerator.com/)  
 - **Visualization**  
@@ -71,8 +71,12 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
 - **Fault Injection**  
   - [libfaketime, a tool that modifies the system time for a single application](https://github.com/wolfcw/libfaketime)
   
-- **Notification tools**
+- **Notification Tools**
   - [Send a message to your Telegram using a bot](https://solvit.io/0f9c61a)
   
+- **Literature Search**
+  - [Quick search for academic journals and conferences in software engineering](https://www.monperrus.net/martin/se-search.html)
+  - [dblp computer science bibliography](https://dblp.org/)
+  - [Google Scholar](https://scholar.google.com/)
   
   
