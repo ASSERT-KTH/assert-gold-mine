@@ -56,6 +56,8 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
   - [Awesome WM Copycats: a set of themes for the Awesome window manager](https://github.com/lcpz/awesome-copycats)  
   - [The Ultimate vimrc](https://github.com/amix/vimrc)
   - [Mathcha, an online mathematics editor](https://www.mathcha.io/)
+  - [CopyQ, Clipboard manager with advanced features](https://github.com/hluk/CopyQ)
+  - [Flameshot, Powerful yet simple to use screenshot software](https://github.com/flameshot-org/flameshot)
 - **Presentation**  
   - [asciinema: a very nice terminal session recorder](https://github.com/asciinema/asciinema)  
   - [WebSequenceDiagrams - Draw sequence diagrams online in seconds](https://www.websequencediagrams.com/)  
