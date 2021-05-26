@@ -4,10 +4,10 @@ This document describes the alternatives we have to run our experiments.
 
 ## 1. Physical machines hosted in Assert
 
-* Individual NUC (@Ye)
-* The Repairnator machine (125GB RAM, one GPU)
+* Individual NUC
+* The Repairnator machine (130.237.222.185, 125GB RAM, two GPUs)
 * The Pellow machine (one GPU)
-* The Tiramisu machine (46GB RAM, one GPU)
+* The Tiramisu machine (130.237.224.95, 46GB RAM, one GPU)
 
 ## 2. Shared Unix servers from KTH/EECS
 
