@@ -6,7 +6,7 @@ This document describes the alternatives we have to run our experiments.
 
 * Individual NUC
 * The Repairnator machine (130.237.222.185, 125GB RAM, two GPUs)
-* The Pellow machine (130.237.224.46, one GPU)
+* The Pellow machine (130.237.224.46, 46GB RAM, one GPU)
 * The Tiramisu machine (130.237.224.95, 46GB RAM, one GPU)
 
 ## 2. Shared Unix servers from KTH/EECS
