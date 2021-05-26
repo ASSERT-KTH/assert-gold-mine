@@ -13,8 +13,6 @@ This document describes the alternatives we have to run our experiments.
 
 Connection through SSH, see <https://intra.kth.se/en/it/arbeta-pa-distans/unix/servers-1.971157>
 
-(Martin uses `tray`)
-
 ## 3. SNIC Cluster
 
 We have SNIC projects in two clusters, HPC2N and PDC.
