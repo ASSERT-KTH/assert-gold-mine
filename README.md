@@ -42,6 +42,7 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
 - [Travel and expense report - KTH-RES](https://kth.ebuilder.se)  
 - [KTH room booking time table](https://cloud.timeedit.net/kth/web/public01/)
 - [Telephone company and mobile network operator - Vimla!](https://vimla.se/?202001280842527775)
+- [How to Write for Technical Periodicals & Conferences](http://ieeeauthorcenter.ieee.org/wp-content/uploads/How-to-Write-for-Technical-Periodicals-and-Conferences-1.pdf)
 
 ## How to run computational experiments?
 
