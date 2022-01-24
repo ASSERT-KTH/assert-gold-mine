@@ -5,13 +5,15 @@ This document describes the alternatives we have to run our experiments.
 ## 1. Physical machines hosted in Assert
 
 * Individual NUC
-* The Repairnator machine (130.237.222.185, 125GB RAM, two GPUs)
-* The Pellow machine (130.237.224.46, 46GB RAM, one GPU)
-* The Tiramisu machine (130.237.224.95, 46GB RAM, one GPU)
+* repairnator: 130.237.222.185, 125GB RAM, two GPUs
+* pellow: 130.237.224.46, 46GB RAM, one GPU
+* tiramisu: 130.237.224.95, 46GB RAM, one GPU
 
-## 2. Shared Unix servers from KTH/EECS
+## 2. Physical machines hosted at KTH/PDC
 
-Connection through SSH, see <https://intra.kth.se/en/it/arbeta-pa-distans/unix/servers-1.971157>
+* croaker: croaker.pdc.kth.se, 130.242.72.40, 500GB RAM, 128 processors (AMD EPYC 7742 64-Core Processor, 1495 Mhz) 
+
+For more machines, see <https://intra.kth.se/en/it/arbeta-pa-distans/unix/servers-1.971157>
 
 ## 3. SNIC Cluster
 
