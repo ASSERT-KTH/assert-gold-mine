@@ -48,12 +48,6 @@ Long is running a Kubernetes cluster. Can be used with [argo](https://github.com
 
 If the experiment is in Python, Google Colab is an option @Ye
 
-## Dedicated server hosted at PDC  (Down now :( )
-
-We have a server at PDC. Docker is available.
-
-Expert in the team for questions: Javier and Nicolas
-
 ## Not enough?
 
 Just ask on the mailing-list :)
