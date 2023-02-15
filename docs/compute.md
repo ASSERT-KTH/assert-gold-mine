@@ -25,7 +25,7 @@ Expert in the team for questions: Zimin, Javier Ron, Zhongxing
 
 See documentation at <https://github.com/gluckzhang/assert-gold-mine/blob/master/docs/snic-run-experiments.md>
 
-## 4. Virtual machines
+## 4. Cloud machines
 
 ### VM on Microsoft Azure
 
@@ -33,16 +33,16 @@ We can spawn a VM on Azure. The costs are paid on a research grant. Monthly budg
 
 Expert in the team for questions: Cesar, Zimin, Javier
 
-### VM on WASP Cluster
+### VM on Ericsson WASP Cluster
 
 We can have virtual machines in the WASP cluster operated by Ericsson. 
 OpenShift interface
 
-Ask long to have a VM
+We self-operate(d) a Kubernetes cluster there. Can be used with [argo](https://github.com/argoproj/argo) (Javier has done this)
 
-## 5. Kubernetes cluster
+### VM on Google Cloud
 
-Long is running a Kubernetes cluster. Can be used with [argo](https://github.com/argoproj/argo) (Javier has done this)
+We have a GCP account.
 
 ## 6. Google Colab
 
