@@ -20,8 +20,10 @@ For more machines, see <https://intra.kth.se/en/it/arbeta-pa-distans/unix/server
 We have/had SNIC projects in four clusters, HPC2N, PDC, Alvis@C3SE, and Berzelius@NSC.
 The last two are suited for GPU-intensive jobs.
 
-Open an account on https://supr.snic.se/, and ask to join an existing project on https://supr.snic.se/project/
-For Berzelius the PI is He Ye (search for her name). For the others the PI is Martin Monperrus.
+Open an account on https://supr.snic.se/, and ask to join an existing project on https://supr.snic.se/project/.
+
+For Berzelius the PI is He Ye (search for her name). 
+For the others the PI is Martin Monperrus.
 
 Expert in the team for questions: Zimin, Javier Ron, Zhongxing
 
