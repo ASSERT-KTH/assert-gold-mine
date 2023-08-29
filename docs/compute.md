@@ -17,13 +17,15 @@ For more machines, see <https://intra.kth.se/en/it/arbeta-pa-distans/unix/server
 
 ## SNIC Cluster
 
-We have SNIC projects in two clusters, HPC2N and PDC.
+We have/had SNIC projects in four clusters, HPC2N, PDC, Alvis@C3SE, and Berzelius@NSC.
+The last two are suited for GPU-intensive jobs.
 
 Open an account on https://supr.snic.se/, and ask to join an existing project on https://supr.snic.se/project/
+For Berzelius the PI is He Ye (search for her name). For the others the PI is Martin Monperrus.
 
 Expert in the team for questions: Zimin, Javier Ron, Zhongxing
 
-See documentation at <https://github.com/gluckzhang/assert-gold-mine/blob/master/docs/snic-run-experiments.md>
+See documentation at the official documentation websites and at <https://github.com/gluckzhang/assert-gold-mine/blob/master/docs/snic-run-experiments.md>
 
 ## WASP Cluster
 
