@@ -11,7 +11,7 @@ This document describes the alternatives we have to run our experiments.
 
 ## Physical machines hosted at KTH/PDC
 
-* croaker: croaker.pdc.kth.se, 130.242.72.40, 500GB RAM, 128 processors (AMD EPYC 7742 64-Core Processor, 1495 Mhz) 
+* croaker: croaker.eecs.kth.se, 130.237.72.200, 500GB RAM, 128 processors (AMD EPYC 7742 64-Core Processor, 1495 Mhz) 
 
 For more machines, see <https://intra.kth.se/en/it/arbeta-pa-distans/unix/servers-1.971157>
 
