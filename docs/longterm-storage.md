@@ -5,7 +5,7 @@ We extensively use Zenodo.
 The default file limit is 50GB. If the data is larger:
 
 - option 1: you split the files in smaller chunk, see https://github.com/ASSERT-KTH/VRepair/ for example. Use Unix split (recommended, see below) or zipsplit for that.
-- option 2: you formally ask for an extension at Zenodo, up to 200GB
+- option 2: you formally ask for an extension at Zenodo, up to 200GB, see https://zenodo.org/records/10041883 for example.
 
 Useful tool:
 
