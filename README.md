@@ -48,7 +48,8 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
 
 - [Computing resources](docs/compute.md)
 - [Downloading many files through the GitHub API](docs/workaround-github-api.md)
-- [Run Experiments with SNIC](docs/snic-run-experiments.md)
+- [Run Experiments with NAISS (formerly SNIC)](docs/snic-run-experiments.md)
+- [How to store open science data for long term archival and reproducibility?](docs/longterm-storage.md)
 
 ## Awesome Tools
 
