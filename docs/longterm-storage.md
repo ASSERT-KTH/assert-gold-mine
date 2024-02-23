@@ -1,11 +1,11 @@
 # How to store open science data for long term archival and reproducibility?
 
-We extensively use Zenodo.
+We extensively use Zenodo. The default file size limit is 50GB. 
 
-The default file limit is 50GB. If the data is larger:
-
-- option 1: you split the files in smaller chunk, see https://github.com/ASSERT-KTH/VRepair/ for example. Use Unix split (recommended, see below) or zipsplit for that.
-- option 2: you formally ask for an extension at Zenodo, up to 200GB, see https://zenodo.org/records/10041883 for example.
+* If the data package is <50GB, push it to Zenodo.
+* If the data package is slightly > 50GB, use a better compression algorithm, such as xz, and push it to Zenodo.
+* If the data is lower <200GB,  you formally ask for an extension at Zenodo, up to 200GB, see https://zenodo.org/records/10041883 for example.
+* If the data is >200GB, you split the reproduction package in smaller 50GB chunks using Unix split command (recommended, see below), see https://github.com/ASSERT-KTH/VRepair/ for example. 
 
 Useful tool:
 
