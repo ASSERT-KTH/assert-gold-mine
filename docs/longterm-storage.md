@@ -27,7 +27,11 @@ $ cat *.zip.* | busybox unzip -
 
 ### 7z 
 
-TODO
+Use the `-v` option (v is for volume) to split the archive into chunks. 
+ 7z `-v` option supports `b k m g` (bytes, kilobytes, megabytes, gigabytes)
+
+Example:
+`7z -v50G a my_zip.7z my_folder/`
 
 ## Notes
 
