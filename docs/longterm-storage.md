@@ -35,11 +35,10 @@ Example:
 
 ## Notes
 
-Figshare max size is 20GB.
-
-[IEEE DataPort](https://ieee-dataport.org/) 
-
-- Accepts and stores datasets up to 2TB in size. 
-- We never used it so far. Martin tried a canary in Feb 24, with no success, the submission website is primitive.
-- Open Access Dataset $1,950. Is that a joke?
-- Upload from command line, see https://ieee-dataport.org/help/upload-your-files-directly-ieee-dataport-s3-bucket
+* KTH has a working group "Research Data", see <https://www.kth.se/en/biblioteket/publicera-analysera/hantera-forskningsdata> 
+* Figshare max size is 20GB.
+* [IEEE DataPort](https://ieee-dataport.org/) 
+  - Accepts and stores datasets up to 2TB in size. 
+  - We never used it so far. Martin tried a canary in Feb 24, with no success, the submission website is primitive.
+  - Open Access Dataset $1,950. Is that a joke?
+  - Upload from command line, see https://ieee-dataport.org/help/upload-your-files-directly-ieee-dataport-s3-bucket
