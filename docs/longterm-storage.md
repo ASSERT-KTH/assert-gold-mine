@@ -35,6 +35,7 @@ Example:
 
 ## Notes
 
+* We cannot use KTH OneDrive because all links expire after 180 days.
 * KTH has a working group "Research Data", see <https://www.kth.se/en/biblioteket/publicera-analysera/hantera-forskningsdata> 
 * Figshare max size is 20GB.
 * [IEEE DataPort](https://ieee-dataport.org/) 
