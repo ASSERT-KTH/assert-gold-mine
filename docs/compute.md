@@ -23,6 +23,8 @@ dd if=/dev/zero of=./tmp_output conv=fdatasync bs=384k count=1k; rm ./tmp_output
 425 MB/s
 /dev/sdf2      /mnt/ssd3
 423 MB/s
+/dev/nvme0n1p1  /mnt/nvme
+1.2 GB/s
 ```
 
 * pellow: 130.237.224.46, 46GB RAM, one GPU
