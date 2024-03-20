@@ -6,6 +6,25 @@ This document describes the alternatives we have to run our experiments.
 
 * Individual NUC
 * repairnator: 130.237.222.185, 125GB RAM, two GPUs
+
+```
+Repairnator disks I/O profile
+dd if=/dev/zero of=./tmp_output conv=fdatasync bs=384k count=1k; rm ./tmp_output
+
+/dev/sda1      /mnt/hdd1
+210 MB/s
+/dev/sdb1       /mnt/ssd1
+425 MB/s
+/dev/sdc1       /mnt/hdd2
+229 MB/s
+/dev/sdd2      /
+340 MB/s
+/dev/sde1      /mnt/ssd2
+425 MB/s
+/dev/sdf2      /mnt/ssd3
+423 MB/s
+```
+
 * pellow: 130.237.224.46, 46GB RAM, one GPU
 * tiramisu: 130.237.224.95, 46GB RAM, one GPU
 
