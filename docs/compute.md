@@ -36,10 +36,11 @@ dd if=/dev/zero of=./tmp_output conv=fdatasync bs=384k count=1k; rm ./tmp_output
 
 For more machines, see <https://intra.kth.se/en/it/arbeta-pa-distans/unix/servers-1.971157>
 
-## SNIC Cluster
+## NAISS Cluster (formerly SNIC)
 
 We have/had SNIC projects in four clusters, HPC2N, PDC, Alvis@C3SE, and Berzelius@NSC.
 The last two are suited for GPU-intensive jobs.
+They support Singularity/[Apptainer](https://github.com/apptainer/apptainer)
 
 Open an account on https://supr.snic.se/, and ask to join an existing project on https://supr.snic.se/project/.
 
