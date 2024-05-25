@@ -61,17 +61,22 @@ We can spawn VMs or any other cloud services on Azure. The costs are paid on a r
 
 ### Microsoft Azure
 
-We have a Microsoft Azure account. Expert in the team for questions: Cesar, Zimin, Javier
+We have a Microsoft Azure account. Expert in the team for questions: Javier
 
-### Google Cloud
+To extract/recover data from a shutdown disk.
+
+- Create a snapshot from the disk
+- Create a snapshort export URL from the snapshot
+- Download the snaphot on a machine `az storage blob download -f file.vhd --blob-url "<EXPORT_URL>"`
+- Mount the file as loop `losetup -P /dev/loop100 file.vhd`
+- Mount the file as filesystem `mount -t auto /dev/loop100p1 /mnt/disk`
+- Copy the content `cp -a /mnt/disk /where/you/want`
+  
+### Google Cloud / GCP
 
 We have a Google Cloud GCP account. 
 
 Expert in the team for questions: Cesar, Zimin
-
-### VM on Google Cloud
-
-We have a GCP account.
 
 ## Not enough?
 
