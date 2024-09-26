@@ -15,3 +15,6 @@ In this document, we summarize strategies to disseminate our work.
 - X (previously Twitter)
 - [Hacker News](https://news.ycombinator.com/)
 - [Lobsters](https://lobste.rs/)
+- Reddit
+  - [r/MachineLearning](https://www.reddit.com/r/MachineLearning)
+  - [r/LocalLlama](https://www.reddit.com/r/LocalLLaMA/)
