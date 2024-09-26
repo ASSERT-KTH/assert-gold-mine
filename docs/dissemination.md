@@ -4,7 +4,10 @@ In this document, we summarize strategies to disseminate our work.
 
 ## email
 
-- Send emails to authors of related papers or other researchers that you know will be interested in your paper.
+- Send emails
+  - to authors of papers you cite (high priority), esp the recent papers (current year, year-1, year-2)
+  - to authors of related papers
+  - all researchers that you know will be interested in your paper.
 
 ## Social Media
 
