@@ -46,4 +46,4 @@ Example:
   - Upload from command line, see https://ieee-dataport.org/help/upload-your-files-directly-ieee-dataport-s3-bucket
 * [OSF](https://osf.io/)
   - Done by the Center for Open Science
-  - Max size is 50GB for public projects
+  - Max size is 50GB for public projects ([ref](https://help.osf.io/article/137-osf-storage-caps))
