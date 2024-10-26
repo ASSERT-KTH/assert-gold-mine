@@ -1,5 +1,7 @@
 # How to store open science data for long term archival and reproducibility?
 
+## Zenodo
+
 We extensively use Zenodo. The default file size limit is 50GB. 
 
 * If the data package is <50GB, push it to Zenodo.
@@ -13,17 +15,16 @@ Useful tool:
 
 ## Performance considerations
 
-### with zip
+### with zip and split
 
 Use /bin/split (and not zipsplit).
 
 To unzip fast, one must avoid writing to disk so one unzips from standard input
 
 ```
+# cat split zip
 $ cat *.zip.* | busybox unzip -
 ```
-### xz 
-
 
 ### 7z 
 
@@ -43,3 +44,6 @@ Example:
   - We never used it so far. Martin tried a canary in Feb 24, with no success, the submission website is primitive.
   - Open Access Dataset $1,950. Is that a joke?
   - Upload from command line, see https://ieee-dataport.org/help/upload-your-files-directly-ieee-dataport-s3-bucket
+* [OSF](https://osf.io/)
+  - Done by the Center for Open Science
+  - Max size is 50GB for public projects
