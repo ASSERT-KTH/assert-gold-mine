@@ -34,11 +34,11 @@ Use the `-v` option (v is for volume) to split the archive into chunks.
 Example:
 `7z -v50G a my_zip.7z my_folder/`
 
-## Notes
+## Notes about alternatives
 
 * We cannot use KTH OneDrive because all links expire after 180 days.
 * KTH has a working group "Research Data", see <https://www.kth.se/en/biblioteket/publicera-analysera/hantera-forskningsdata> 
-* Figshare max size is 20GB.
+* [Figshare](https://figshare.com/) max size is 20GB.
 * [IEEE DataPort](https://ieee-dataport.org/) 
   - Accepts and stores datasets up to 2TB in size. 
   - We never used it so far. Martin tried a canary in Feb 24, with no success, the submission website is primitive.
