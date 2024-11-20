@@ -1,7 +1,33 @@
 # ASSERT Gold Mine
 This is an informal repo for ASSERT (Awesome Software Engineering Research Team at KTH) teammates to share awesome stuff. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Awesome Places in Sweden
+## Tourism in Stockholm
+
+- If you like walking & landscapes:
+  - [Norra Mälarstrand](https://en.wikipedia.org/wiki/Norr_M%C3%A4larstrand) in Kungsholmen
+  - Going around [Scheppsholmen](https://en.wikipedia.org/wiki/Skeppsholmen)
+  - [Strandsvâgen](https://en.wikipedia.org/wiki/Strandv%C3%A4gen) and Djurgården
+- **Museums**  
+  - [Fotografiska (Stadsgårdshamnen 22, Stockholm)](https://goo.gl/maps/cfbdAh1LhbxgnSTA6)  
+  - [Moderna Museet (Exercisplan 4, Stockholm)](https://goo.gl/maps/aZ2xWBPLidsSyGrF9)  
+  - [Nobel Museum (Stortorget 2, Stockholm)](https://goo.gl/maps/5f59VnD5aVTPKGcu9)
+  - [Vasa Museum](https://www.vasamuseet.se/en)
+  - and [many others](https://en.wikipedia.org/wiki/List_of_museums_in_Stockholm)
+- **Viewpoints**
+  - [Monteliusvägen](https://goo.gl/maps/FyWLr49FCxiRpvdQ9)
+  - [Skinnarviksberget](https://goo.gl/maps/cyQ5cjnai5JUrzP67)
+  - [Fjällgatan](https://goo.gl/maps/LX1f3KVeMJadieCy5)
+- **Concert & Live performances**
+  - [Stallet (Swedish traditional music and world music)](https://stallet.st/en/)
+  - [Fylkingen (Cosy space for experimental music)](https://fylkingen.se/)
+  - [Konserthuset (Classical music)](https://www.konserthuset.se/en)
+  - [Berwaldhallen (Classical music)](https://www.berwaldhallen.se/en/)
+  - Dramaten
+  - The Royal Opera
+
+
+
+## Awesome Places
 
 - **Pubs / Restaurants**  
   - [Wirströms Pub (Stora Nygatan 13, Stockholm)](https://goo.gl/maps/McA4gtR1VzsWoQxM7)  
@@ -18,20 +44,6 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
   - [Tyresta National Park (Svartbäckens 361, Vendelsö)](https://goo.gl/maps/249QELkPHmG4TisF6)
   - [Björnö nature reserve](https://goo.gl/maps/rxFxtTrSocP7um8U7)
   - [Royal National City Park](https://goo.gl/maps/uVsu1BqfqfmA2wJv9)
-- **Museums**  
-  - [Fotografiska (Stadsgårdshamnen 22, Stockholm)](https://goo.gl/maps/cfbdAh1LhbxgnSTA6)  
-  - [Moderna Museet (Exercisplan 4, Stockholm)](https://goo.gl/maps/aZ2xWBPLidsSyGrF9)  
-  - [Nobel Museum (Stortorget 2, Stockholm)](https://goo.gl/maps/5f59VnD5aVTPKGcu9)
-  - [Vasa Museum](https://www.vasamuseet.se/en)
-- **Views**
-  - [Monteliusvägen](https://goo.gl/maps/FyWLr49FCxiRpvdQ9)
-  - [Skinnarviksberget](https://goo.gl/maps/cyQ5cjnai5JUrzP67)
-  - [Fjällgatan](https://goo.gl/maps/LX1f3KVeMJadieCy5)
-- **Concert spaces**
-  - [Stallet (Swedish traditional music and world music)](https://stallet.st/en/)
-  - [Fylkingen (Cosy space for experimental music)](https://fylkingen.se/)
-  - [Konserthuset (Classical music)](https://www.konserthuset.se/en)
-  - [Berwaldhallen (Classical music)](https://www.berwaldhallen.se/en/)
 
 ## Awesome Onboard Information And Websites
 
