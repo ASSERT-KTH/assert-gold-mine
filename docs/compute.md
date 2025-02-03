@@ -26,11 +26,14 @@ Slow IO
 * pellow: 130.237.224.46, 46GB RAM, one GPU
 * tiramisu: 130.237.224.95, 46GB RAM, one GPU
 
-## Physical machines hosted at KTH/PDC
+## Physical machines hosted at KTH
 
 * croaker: croaker.eecs.kth.se, 130.237.72.200, 500GB RAM, 128 processors (AMD EPYC 7742 64-Core Processor, 1495 Mhz) 
 
+* GPU NVIDIA DGX H100 at EECS <https://intra.kth.se/en/eecs/nyheter/resurs-for-larare-nvidia-dgx-h100-1.1314290>
+
 For more machines, see <https://intra.kth.se/en/it/arbeta-pa-distans/unix/servers-1.971157>
+
 
 ## NAISS Cluster (formerly SNIC)
 
@@ -77,6 +80,7 @@ To extract/recover data from a shutdown disk.
 We have a Google Cloud GCP account. 
 
 Expert in the team for questions: Cesar, Zimin
+
 
 ## Not enough?
 
