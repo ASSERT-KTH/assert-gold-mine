@@ -48,7 +48,7 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
   
 - **Literature Search**
   - [Quick search for academic journals and conferences in software engineering](https://www.monperrus.net/martin/se-search.html)
-  - [Semantic search for software engineering (feb 2025)](https://se-search.monperrus.com/)
+  - [Semantic search for software engineering (feb 2025)](https://se-search.monperrus.net/)
   - [dblp computer science bibliography](https://dblp.org/)
   - [Google Scholar](https://scholar.google.com/)
   
