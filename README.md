@@ -9,7 +9,7 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
 - [Course Information for Doctoral Students](docs/course-information.md)
 - [Employee benefits - KTH for me](https://intra.kth.se/en/anstallning/anstallningsvillkor/personalformaner-kth-for-mig-1.365793)  
 - [Travel and expense report - KTH-RES](https://kth.ebuilder.se)
-- [PhD internships in other labs](https://intra.kth.se/en/anstallning/anstallningsvillkor/utlandstjanstgoring-ura-1.864702)
+- [PhD internships in other labs](internships.md)
 - [KTH room booking time table](https://cloud.timeedit.net/kth/web/public01/)
 - [Telephone company and mobile network operator - Vimla!](https://vimla.se/?202001280842527775)
 - [How to Write for Technical Periodicals & Conferences](http://ieeeauthorcenter.ieee.org/wp-content/uploads/How-to-Write-for-Technical-Periodicals-and-Conferences-1.pdf)
