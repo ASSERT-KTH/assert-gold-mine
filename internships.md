@@ -6,7 +6,7 @@ It's a very good idea to one or even several internships during your PhD.
 - in a lab (eg Ye at PoluY, Kashayar at ETH)
 
 ### Paid internships
-If you're paid by the company / lab, you take a leave of absence. This decreases your TA duties accordingly. See with HR.
+If you're paid by the company / lab, you take a leave of absence. This decreases your TA duties accordingly (20% TA = 2.4 months internships). See with HR.
 
 ## Unpaid internships
 
