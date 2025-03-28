@@ -2,7 +2,7 @@
 
 It's a very good idea to one or even several internships during your PhD.
 
-- in a company (eg Zimin at Google, or Javier at Meta)
+- in a company (eg Zimin at Google, Javier at Meta, André at Microsoft, Aman at Oracle)
 - in a lab (eg Ye at PoluY, Kashayar at ETH)
 
 ### Paid internships
