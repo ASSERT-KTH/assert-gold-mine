@@ -3,7 +3,7 @@
 It's a very good idea to one or even several internships during your PhD.
 
 - in a company (eg Zimin at Google, Javier at Meta, André at Microsoft, Aman at Oracle)
-- in a lab (eg Ye at PoluY, Kashayar at ETH)
+- in a lab (eg Ye at PolyU, Kashayar at ETH)
 
 ### Paid internships
 If you're paid by the company / lab, you take a leave of absence. This decreases your TA duties accordingly (20% TA = 2.4 months internships). See with HR.
