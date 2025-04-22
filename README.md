@@ -38,6 +38,10 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
   - [Overleaf/GitHub tex boilerplate project to verify spelling, grammar, style, and run other sanity checks](https://github.com/Jacarte/autocheck-latex-boilerplate)  
   - [Tables Generator: an online generator for tables in LaTeX, HTML, Text, Markdown, and MediaWiki](https://www.tablesgenerator.com/)
   - [ruffix: python tool to fix bib files](https://github.com/kasnerz/reffix)
+- **Bibliography management**
+  - [Zotero](https://www.zotero.org/) (recommended) 
+  - [Mendeley](https://www.mendeley.com/)
+  - [PapersApp](https://www.papersapp.com/) 
 - **Visualization**  
   - [D3.js, a JavaScript library for manipulating documents based on data](https://d3js.org/)  
   - [AMCHARTS, JavaScript Charts & Maps](https://www.amcharts.com/)  
