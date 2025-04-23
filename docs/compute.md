@@ -50,9 +50,15 @@ Expert in the team for questions: Zimin, Javier Ron, Zhongxing
 
 See documentation at the official documentation websites and at <https://github.com/gluckzhang/assert-gold-mine/blob/master/docs/snic-run-experiments.md>
 
+## gpu1.eecs.kth.se
+
+8 GPUs
+https://gpu1.eecs.kth.se/
+
 ## KTH Cloud (run by students)
 
-cbhcloud is top for master's students, see https://cloud.cbh.kth.se/
+cbhcloud is top for master's students, has 15 GPUs
+see https://cloud.cbh.kth.se/
 ask for access on Discord
 
 ## WASP Cluster
