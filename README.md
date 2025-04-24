@@ -38,6 +38,7 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
   - [Overleaf/GitHub tex boilerplate project to verify spelling, grammar, style, and run other sanity checks](https://github.com/Jacarte/autocheck-latex-boilerplate)  
   - [Tables Generator: an online generator for tables in LaTeX, HTML, Text, Markdown, and MediaWiki](https://www.tablesgenerator.com/)
   - [ruffix: python tool to fix bib files](https://github.com/kasnerz/reffix)
+  - [Compile LateX locally on VSCode](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
 - **Bibliography management**
   - [Zotero](https://www.zotero.org/) (recommended) 
   - [Mendeley](https://www.mendeley.com/)
