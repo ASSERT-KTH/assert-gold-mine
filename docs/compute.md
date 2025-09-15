@@ -68,8 +68,6 @@ ask for access on Discord
 We can have virtual machines in the WASP cluster operated by Ericsson. 
 OpenShift interface
 
-We self-operate(d) a Kubernetes cluster there. Can be used with [argo](https://github.com/argoproj/argo) (Javier has done this)
-
 
 ## Cloud
 
