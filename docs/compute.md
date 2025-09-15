@@ -9,14 +9,16 @@ This document describes the alternatives we have to run our experiments.
 
 ```
 Repairnator disks I/O profile
-dd if=/dev/zero of=./tmp_output conv=fdatasync bs=384k count=1k; rm ./tmp_output
+dd if=/dev/zero of=./tmp_output conv=fdatasync bs=384k count=10k; rm ./tmp_output
 
 Fast IO
-/mnt/nvme 1.2 GB/s
-/mnt/ssd1 425 MB/s
-/mnt/ssd2 425 MB/s
-/mnt/ssd3 423 MB/s
+/mnt/nvme 1.6 GB/s
+/mnt/ssd1 459 MB/s
+/mnt/ssd2 460 MB/s
+/mnt/ssd3 461 MB/s
+/mnt/ssd4 461 MB/s
 /          340 MB/s
+
 Slow IO
 /mnt/hdd1 210 MB/s
 /mnt/hdd2 229 MB/s
