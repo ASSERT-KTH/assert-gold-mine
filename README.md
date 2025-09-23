@@ -14,6 +14,7 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
 - [Telephone company and mobile network operator - Vimla!](https://vimla.se/?202001280842527775)
 - [How to Write for Technical Periodicals & Conferences](http://ieeeauthorcenter.ieee.org/wp-content/uploads/How-to-Write-for-Technical-Periodicals-and-Conferences-1.pdf)
 - [Publication Tips and Caveats](docs/publications-tips.md)
+- [Computer Science Awards, Scholarships, & Fellowships](https://github.com/chinasatokolo/csGraduateFellowships)
 
 ## How to run computational experiments?
 
