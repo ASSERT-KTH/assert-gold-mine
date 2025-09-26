@@ -32,7 +32,7 @@ Slow IO
 
 * croaker: croaker.eecs.kth.se, 130.237.72.200, 500GB RAM, 128 processors (AMD EPYC 7742 64-Core Processor, 1495 Mhz) 
 
-* GPU NVIDIA DGX H100 at EECS <https://intra.kth.se/en/eecs/nyheter/resurs-for-larare-nvidia-dgx-h100-1.1314290>
+* GPU NVIDIA DGX H100 at EECS <https://intra.kth.se/en/eecs/nyheter/resurs-for-larare-nvidia-dgx-h100-1.1314290>, <https://gpu1.eecs.kth.se/>
 
 For more machines, see <https://intra.kth.se/en/it/arbeta-pa-distans/unix/servers-1.971157>
 
@@ -52,10 +52,7 @@ Expert in the team for questions: Zimin, Javier Ron, Zhongxing
 
 See documentation at the official documentation websites and at <https://github.com/gluckzhang/assert-gold-mine/blob/master/docs/snic-run-experiments.md>
 
-## gpu1.eecs.kth.se
 
-8 GPUs
-https://gpu1.eecs.kth.se/
 
 ## KTH Cloud (run by students)
 
