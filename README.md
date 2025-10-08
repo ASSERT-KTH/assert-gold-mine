@@ -23,6 +23,9 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
 - [Run Experiments with NAISS (formerly SNIC)](docs/snic-run-experiments.md)
 - [How to store open science data for long term archival and reproducibility?](docs/longterm-storage.md)
 
+## Organization
+
+- [Check list for event organization](https://github.com/ASSERT-KTH/EventsOrganization101)
 ## Awesome Tools
 
 - **Effectiveness**  
