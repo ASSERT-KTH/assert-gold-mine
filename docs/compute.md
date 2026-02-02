@@ -91,14 +91,19 @@ Expert in the team for questions: Cesar, Zimin
 
 ## AI Inference
 
-We used:
+We use:
 
 - OpenRouter (preferred): supports all open source models and also Claude. we have an assert organization.
 - OpenAI: we have an Assert organization, we had grants
 - Google: we have an Assert organization, we had grants
 - Anthropic: we have an Assert organization, not used anymore use OpenRouter instead.
 
-Ask Martin to be added
+Ask Martin to be added to one of the orgs.
+
+For all API keys:
+- prefix the key name with your name
+- set an expiration date and a max cost
+
 
 ## Not enough?
 
