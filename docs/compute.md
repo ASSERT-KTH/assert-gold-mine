@@ -37,7 +37,7 @@ Slow IO
 For more machines, see <https://intra.kth.se/en/it/arbeta-pa-distans/unix/servers-1.971157>
 
 
-## NAISS Cluster (formerly SNIC)
+## NAISS Cluster (formerly SNIC) GPU and Compute
 
 We have/had SNIC projects in four clusters, HPC2N, PDC, Alvis@C3SE, and Berzelius@NSC.
 The last two are suited for GPU-intensive jobs.
@@ -60,15 +60,15 @@ cbhcloud is top for master's students, has 15 GPUs
 see https://cloud.cbh.kth.se/
 ask for access on Discord
 
-## WASP Cluster
-
-We can have virtual machines in the WASP cluster operated by Ericsson. 
-OpenShift interface
 
 
 ## Cloud
 
 We can spawn VMs or any other cloud services on Azure. The costs are paid on a research grant. 
+
+### NAISS Cluster
+
+Naiss has compute projects, we often have one running, see <https://supr.naiss.se/>
 
 ### Microsoft Azure
 
